@@ -13,4 +13,4 @@
 ### 10 - Exercise
 ### 11 - Exercise
 ### 12 - Exercise
-![alt text]([http://url/to/img.png](https://github.com/vitorwittpro/Python/blob/master/python_crash_course/chapter_6/images/6_12_extensions.png?raw=true))
+![alt text]((https://github.com/vitorwittpro/Python/blob/master/python_crash_course/chapter_6/images/6_12_extensions.png?raw=true))
