@@ -1,6 +1,5 @@
 import time
 
-
 def print_process(unprinted_designs, completed_models):
     while unprinted_designs:
         current_design = unprinted_designs.pop()
@@ -13,12 +12,3 @@ def print_completed(completed_models):
     print("Printed all models.")
     for completed_model in completed_models:
         print(completed_model)
-
-unprinted = ['tomato', 'scream movie', 'scooby-doo']
-completed = []
-
-# copy unprinted_design
-print_process(unprinted[:], completed_models=completed)
-print_completed(completed_models=completed)
-
-print(unprinted)
